@@ -1,350 +1,362 @@
-<!--
-  SANKALP NIGAM — FUTURISTIC AI ENGINEERING PROFILE
-  Repository: sandhruv/sankalpnigam
--->
+ <!-- README.md — SANKALP NIGAM -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101B40,70:4527A0,100:00E5FF&height=220&section=header&text=SANKALP%20NIGAM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%2F%20FULL-STACK%20SYSTEMS&descSize=14&descAlignY=58&animation=fadeIn" alt="Futuristic AI engineering banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=260&section=header&text=SANKALP%20NIGAM&fontSize=54&fontColor=D7FF64&fontAlignY=42&desc=INTELLIGENCE%20INTO%20ENGINEERING.&descSize=15&descColor=F4F1E8&descAlignY=63&animation=fadeIn" alt="Sankalp Nigam — AI engineering"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+AI+SYSTEMS...;%3E+BUILDING+RAG+%26+LLM+APPLICATIONS;%3E+ENGINEERING+INTELLIGENT+PRODUCTS;%3E+CODE.+REASON.+BUILD.+DEPLOY." alt="Animated AI engineering terminal" />
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>01 / THINK</strong><br/>
+<sub>Understand the problem.</sub>
+</td>
+<td align="center" width="33%">
+<strong>02 / ENGINEER</strong><br/>
+<sub>Build the system.</sub>
+</td>
+<td align="center" width="33%">
+<strong>03 / SHIP</strong><br/>
+<sub>Make it usable.</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/sandhruv">
-<img src="https://img.shields.io/badge/GITHUB-ENTER%20PROFILE-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/sankalpnigam">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-</a>
-<a href="mailto:sankalpnigamofficial@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-TRANSMIT-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
-</a>
+<a href="https://github.com/sandhruv"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=D7FF64" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sankalpnigam"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=D7FF64" alt="LinkedIn"/></a>
+<a href="mailto:sankalpnigamofficial@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=FF795B" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=sandhruv&style=flat-square&color=00E5FF&label=SYSTEM+VISITS" alt="Profile visits"/>
+<br/><br/>
+
+<em>Computer Science student · AI systems · Full-stack engineering</em>
 
 </div>
 
 ---
 
-## `01 // SYSTEM IDENTITY`
+<div align="center">
+
+### NOT JUST ANOTHER PROJECT REPOSITORY.
+
+**A WORKBENCH FOR IDEAS THAT BECOME SOFTWARE.**
+
+</div>
+
+## `INDEX / 00` — THE OPERATOR
 
 ```text
-IDENTITY       Sankalp Nigam
-ROLE           AI Engineer / Full-Stack Developer
-EDUCATION      B.Tech Computer Science & Engineering
-INSTITUTION    Lovely Professional University
-PRIMARY FOCUS  RAG · LLM Applications · Backend Engineering
-MISSION        Turn intelligent ideas into usable software
+NAME          Sankalp Nigam
+BASE          Lovely Professional University, India
+DISCIPLINE    Computer Science & Engineering
+BUILD FOCUS   Applied AI / RAG / Backend / Full-Stack
+APPROACH      Understand → Design → Build → Test → Improve
 ```
 
-I'm a Computer Science and Engineering student interested in building AI-powered applications, intelligent retrieval systems, and end-to-end software products.
+I’m a Computer Science and Engineering student interested in turning AI capabilities into useful, working products.
 
-My approach combines applied AI with software engineering: retrieval, model orchestration, backend APIs, database design, user interfaces, and deployment.
+My work spans AI-powered applications, retrieval systems, recruitment platforms, developer tools, and application engineering. I enjoy exploring how models, data, APIs, interfaces, and deployment fit together to create a complete product.
 
-- `> CURRENT BUILD` — Placement Prep Buddy
-- `> EXPLORING` — RAG, LLM orchestration, AI agents, and cloud deployment
-- `> ENGINEERING` — Python, Java, TypeScript, React, FastAPI, and Node.js
-- `> INTERESTS` — System design, application reliability, testing, and performance
-
----
-
-## `02 // TECHNOLOGY MATRIX`
-
-<div align="center">
-
-### `CORE LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,mysql&theme=dark" alt="Programming languages"/>
-
-### `APPLICATION ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,redux,tailwind&theme=dark" alt="Frontend and backend technologies"/>
-
-### `AI / DATA SYSTEMS`
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,mongodb,firebase,docker,gcp,git,github&theme=dark" alt="AI, database and engineering tools"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge&labelColor=0B1020" alt="RAG"/>
-<img src="https://img.shields.io/badge/FAISS-7C4DFF?style=for-the-badge&labelColor=0B1020" alt="FAISS"/>
-<img src="https://img.shields.io/badge/LLM%20APPLICATIONS-00E5FF?style=for-the-badge&labelColor=0B1020" alt="LLM applications"/>
-<img src="https://img.shields.io/badge/REST%20APIs-7C4DFF?style=for-the-badge&labelColor=0B1020" alt="REST APIs"/>
-
-</div>
+- **Building:** AI-powered products and full-stack applications
+- **Exploring:** RAG, LLM orchestration, AI agents, and system reliability
+- **Engineering with:** Python, Java, TypeScript, React, FastAPI, and Node.js
+- **Improving:** DSA, testing, backend architecture, and deployment practices
 
 ---
 
-## `03 // ACTIVE PROJECT SYSTEMS`
-
-### `SYS.001` — Placement Prep Buddy
-
-**AI-powered interview intelligence platform**
-
-Upload a resume, choose a target role, identify skill gaps, practice with an AI interviewer, and receive structured feedback.
-
-**SYSTEM MODULES**
-- Resume-oriented preparation
-- Skill-gap analysis
-- Dynamic AI interview conversations
-- Interview scoring and feedback reports
-
-**STACK**
-
-`React` `FastAPI` `Groq LLM` `Tavily` `MongoDB` `Render`
+## `INDEX / 01` — CAPABILITY MAP
 
 <div align="center">
 
-<a href="https://placement-preparation-buddy-1.onrender.com/login">
-<img src="https://img.shields.io/badge/LAUNCH_APPLICATION-00E5FF?style=for-the-badge&labelColor=0B1020" alt="Launch Placement Prep Buddy"/>
-</a>
-<a href="https://github.com/sandhruv/placement-preparation-buddy">
-<img src="https://img.shields.io/badge/INSPECT_SOURCE-7C4DFF?style=for-the-badge&labelColor=0B1020" alt="View source code"/>
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### BUILD
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&theme=dark" alt="Programming languages"/>
+
+<sub>Languages · APIs · Application logic</sub>
+
+</td>
+<td align="center" width="50%">
+
+### INTERFACE
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" alt="Frontend stack"/>
+
+<sub>Frontend · Components · User experience</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### INTELLIGENCE
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and computer vision"/>
+
+<sub>LLM applications · RAG · Computer vision</sub>
+
+</td>
+<td align="center" width="50%">
+
+### INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,firebase,docker,gcp,git,github&theme=dark" alt="Backend and infrastructure"/>
+
+<sub>Services · Data · Containers · Cloud</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-**Architecture // Conceptual flow**
+**Concepts I work with**
+
+`RAG` `FAISS` `LLM Applications` `Semantic Search` `REST APIs` `Automation` `Software Testing` `Data Structures`
+
+---
+
+## `INDEX / 02` — SELECTED BUILDS
+
+<sub>REAL REPOSITORIES. REAL LINKS. A WORK IN PROGRESS.</sub>
+
+### 01 — PLACEMENT PREP BUDDY
+
+<sub><img src="https://img.shields.io/badge/PRODUCT-01-D7FF64?style=flat-square&labelColor=111111" alt="Product 01"/> <img src="https://img.shields.io/badge/AI-INTERVIEW-111111?style=flat-square&labelColor=FF795B" alt="AI interview"/></sub>
+
+**An AI-powered preparation workspace for job seekers.**
+
+A platform designed to help candidates prepare for roles through resume-oriented preparation, skill-gap analysis, AI interview practice, and feedback reports.
+
+| System layer | Technology |
+|---|---|
+| Interface | React |
+| API | FastAPI |
+| Language model | Groq |
+| Search | Tavily |
+| Persistence | MongoDB |
+| Deployment | Render |
+
+<div align="left">
+<a href="https://placement-preparation-buddy-1.onrender.com/login"><img src="https://img.shields.io/badge/↗_OPEN_LIVE_APP-D7FF64?style=for-the-badge&labelColor=111111" alt="Open live app"/></a>
+<a href="https://github.com/sandhruv/placement-preparation-buddy"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=D7FF64" alt="View source"/></a>
+</div>
+
+**SYSTEM MAP**
 
 ```mermaid
-flowchart TD
-    U([Candidate]) --> UI[React Interface]
-    UI --> API[FastAPI Services]
-    API --> R[Resume and Skill Analysis]
-    API --> L[Interview Orchestration]
-    L --> M[Groq LLM]
-    API --> S[Tavily Search]
-    API <--> DB[(MongoDB)]
-    R --> OUT[Interview Report]
-    L --> OUT
-    OUT --> UI
+flowchart LR
+    A["Candidate"] --> B["React UI"]
+    B --> C["FastAPI"]
+    C --> D["Resume & Skills"]
+    C --> E["Interview Engine"]
+    E --> F["Groq LLM"]
+    C --> G["Tavily Search"]
+    C <--> H[("MongoDB")]
+    D --> I["Feedback Report"]
+    E --> I
+    I --> B
 
-    style U fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style API fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style M fill:#241447,stroke:#A78BFA,color:#FFFFFF
-    style DB fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style OUT fill:#102D34,stroke:#00E5FF,color:#FFFFFF
+    style A fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style B fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style C fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style F fill:#FF795B,stroke:#111111,color:#111111
+    style H fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style I fill:#D7FF64,stroke:#111111,color:#111111
 ```
-
-**Visual interface**
-
-<!-- Upload a real screenshot to assets/placement-prep-buddy.png -->
-
-<p align="center">
-  <img src="assets/placement-prep-buddy.png" width="90%" alt="Placement Prep Buddy interface — add a real screenshot"/>
-</p>
 
 ---
 
-### `SYS.002` — Vettora
+### 02 — VETTORA
 
-**Recruitment, screening and assessment platform**
+<sub><img src="https://img.shields.io/badge/PRODUCT-02-D7FF64?style=flat-square&labelColor=111111" alt="Product 02"/> <img src="https://img.shields.io/badge/FULL--STACK-PLATFORM-111111?style=flat-square&labelColor=FF795B" alt="Full-stack platform"/></sub>
 
-A full-stack recruitment platform combining candidate workflows, resume processing, AI-assisted interview features, real-time communication, and assessment functionality.
+**Recruitment workflows, candidate screening, and assessment.**
 
-**SYSTEM MODULES**
-- Role-based access and recruitment workflows
-- Resume processing and ATS-oriented functionality
-- AI-assisted interview questions and audio analysis
-- Real-time features using Socket.IO and WebRTC
-- Assessment and anti-cheat functionality
+A recruitment and assessment platform combining role-based workflows, resume processing, interview-related features, real-time communication, and assessment functionality.
 
-**STACK**
+**ENGINEERING STACK**
 
 `React` `Redux Toolkit` `Express` `MongoDB` `Socket.IO` `WebRTC` `Docker`
 
-<div align="center">
-
-<a href="https://cv-shortlisting-system-2.onrender.com/">
-<img src="https://img.shields.io/badge/LAUNCH_APPLICATION-00E5FF?style=for-the-badge&labelColor=0B1020" alt="Launch Vettora"/>
-</a>
-<a href="https://github.com/sandhruv/cv-shortlisting-system">
-<img src="https://img.shields.io/badge/INSPECT_SOURCE-7C4DFF?style=for-the-badge&labelColor=0B1020" alt="View source code"/>
-</a>
-
+<div align="left">
+<a href="https://cv-shortlisting-system-2.onrender.com/"><img src="https://img.shields.io/badge/↗_OPEN_LIVE_APP-D7FF64?style=for-the-badge&labelColor=111111" alt="Open live app"/></a>
+<a href="https://github.com/sandhruv/cv-shortlisting-system"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=D7FF64" alt="View source"/></a>
 </div>
 
-**Architecture // Conceptual flow**
+**SYSTEM MAP**
 
 ```mermaid
-flowchart TD
-    U[Recruiters and Candidates] --> UI[React Application]
-    UI --> API[Express API]
-    API <--> DB[(MongoDB)]
-    API --> AI[AI Processing]
-    API --> RT[Socket.IO Events]
-    UI <--> RTC[WebRTC Communication]
-    RT --> UI
+flowchart LR
+    A["Recruiter"] --> B["React Application"]
+    C["Candidate"] --> B
+    B --> D["Express API"]
+    D <--> E[("MongoDB")]
+    D --> F["AI Processing"]
+    B <--> G["Socket.IO"]
+    B <--> H["WebRTC"]
 
-    style UI fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style API fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style AI fill:#241447,stroke:#A78BFA,color:#FFFFFF
-    style DB fill:#101B40,stroke:#00E5FF,color:#FFFFFF
+    style A fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style C fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style B fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style D fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style E fill:#D7FF64,stroke:#111111,color:#111111
+    style F fill:#FF795B,stroke:#111111,color:#111111
 ```
-
-<!-- Upload a real screenshot to assets/vettora-dashboard.png -->
-
-<p align="center">
-  <img src="assets/vettora-dashboard.png" width="90%" alt="Vettora dashboard — add a real screenshot"/>
-</p>
 
 ---
 
-### `SYS.003` — SangamRAG
+### 03 — SANGAMRAG
 
-**Conflict-aware retrieval-augmented generation**
+<sub><img src="https://img.shields.io/badge/PRODUCT-03-D7FF64?style=flat-square&labelColor=111111" alt="Product 03"/> <img src="https://img.shields.io/badge/RETRIEVAL-AI-111111?style=flat-square&labelColor=FF795B" alt="Retrieval AI"/></sub>
 
-An experimental RAG application combining semantic retrieval with contradiction-aware processing before answer generation.
+**Exploring context retrieval and conflict-aware answers.**
 
-**SYSTEM MODULES**
-- Document chunking and embedding
-- FAISS vector retrieval using MiniLM
-- Potentially contradictory claim detection
-- SHA-256-based caching for repeated requests
+A RAG project combining semantic retrieval with a conflict-analysis stage before language-model response generation.
 
-**STACK**
+**ENGINEERING STACK**
 
-`Python` `FastAPI` `FAISS` `Groq` `Ollama` `Docker` `Google Cloud Run`
+`Python` `FastAPI` `FAISS` `MiniLM` `Groq` `Ollama` `Docker` `Google Cloud Run`
 
-<div align="center">
-
-<a href="https://sangam-rag-frontend-524229321053.asia-south1.run.app">
-<img src="https://img.shields.io/badge/LAUNCH_APPLICATION-00E5FF?style=for-the-badge&labelColor=0B1020" alt="Launch SangamRAG"/>
-</a>
-<a href="https://github.com/sandhruv/sanagam-rag">
-<img src="https://img.shields.io/badge/INSPECT_SOURCE-7C4DFF?style=for-the-badge&labelColor=0B1020" alt="View source code"/>
-</a>
-
+<div align="left">
+<a href="https://sangam-rag-frontend-524229321053.asia-south1.run.app"><img src="https://img.shields.io/badge/↗_OPEN_LIVE_APP-D7FF64?style=for-the-badge&labelColor=111111" alt="Open live app"/></a>
+<a href="https://github.com/sandhruv/sanagam-rag"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=D7FF64" alt="View source"/></a>
 </div>
 
-**Architecture // RAG pipeline**
+**SYSTEM MAP**
 
 ```mermaid
-flowchart TD
-    Q[User Query] --> E[Query Embedding]
-    E --> V[FAISS Vector Search]
-    V --> C[Retrieved Context]
-    C --> D[Conflict Analysis]
-    D --> L[LLM Generation]
-    L --> A[Grounded Response]
-    Q -. Repeated request .-> H[SHA-256 Cache]
-    H -. Cache hit .-> A
+flowchart LR
+    A["Question"] --> B["Embedding"]
+    B --> C["FAISS Retrieval"]
+    C --> D["Retrieved Context"]
+    D --> E["Conflict Analysis"]
+    E --> F["LLM"]
+    F --> G["Response"]
+    A -.-> H["SHA-256 Cache"]
+    H -.-> G
 
-    style Q fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style V fill:#101B40,stroke:#00E5FF,color:#FFFFFF
-    style D fill:#241447,stroke:#A78BFA,color:#FFFFFF
-    style L fill:#241447,stroke:#A78BFA,color:#FFFFFF
-    style A fill:#102D34,stroke:#00E5FF,color:#FFFFFF
+    style A fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style B fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style C fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style E fill:#FF795B,stroke:#111111,color:#111111
+    style F fill:#111111,stroke:#D7FF64,color:#FFFFFF
+    style G fill:#D7FF64,stroke:#111111,color:#111111
+    style H fill:#111111,stroke:#FF795B,color:#FFFFFF
 ```
-
-*Conceptual architecture; validate exact processing and cache behavior against the implementation.*
 
 ---
 
-### `SYS.004` — Document AI RAG
+### 04 — DOCUMENT AI RAG
 
-**Private-document question answering**
-
-A document question-answering project using retrieval and language-model generation to help users query their own content.
+**Question-answering over documents using retrieval and generation.**
 
 `Python` `FastAPI` `React` `FAISS` `Sentence Transformers` `Groq`
 
-[↗ INSPECT REPOSITORY](https://github.com/sandhruv/document-ai-rag)
+[↗ Explore repository](https://github.com/sandhruv/document-ai-rag)
 
 ---
 
-### `SYS.005` — Batuni Chat App
+### 05 — BATUNI CHAT APP
 
-**Real-time Android messaging**
+**Android messaging built with Java and Firebase.**
 
-An Android chat application built with Java, Firebase Authentication, Realtime Database, Fragments, and Adapters.
+`Java` `Android` `Firebase`
 
-`Java` `Firebase` `Android SDK`
-
-[↗ INSPECT REPOSITORY](https://github.com/sandhruv/batuni-chat-aap)
+[↗ Explore repository](https://github.com/sandhruv/batuni-chat-aap)
 
 ---
 
-### `SYS.006` — Developer Portfolio
+### 06 — DEVELOPER PORTFOLIO
 
-**Personal web presence**
-
-A portfolio website built with Next.js App Router, TypeScript, and Tailwind CSS.
+**A personal web presence built with modern frontend tools.**
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
-[↗ INSPECT REPOSITORY](https://github.com/sandhruv/sankalpnigam)
+[↗ Explore repository](https://github.com/sandhruv/sankalpnigam)
 
 ---
 
-## `04 // ADDITIONAL REPOSITORIES`
+## `INDEX / 03` — THE LAB
 
-| SYSTEM | DESCRIPTION | SOURCE |
-|---|---|---|
-| WhatsApp Automation Suite | Selenium and Tkinter desktop automation | [OPEN](https://github.com/sandhruv/WhatsApp-Automation-Suite) |
-| Screenshot to Code | UI screenshot-to-code experimentation | [OPEN](https://github.com/sandhruv/screenshot-to-code) |
-| Personal Budget Assistant | Python-based personal finance assistant | [OPEN](https://github.com/sandhruv/-Personal-Budget-Assistant) |
-| Student Performance Prediction | Predictive analysis and ML | [OPEN](https://github.com/sandhruv/predictive-analysis) |
-| LPU Portal | Document processing portal | [OPEN](https://github.com/sandhruv/lpu-portal) |
-| Hand Gesture Control | Computer vision and gesture interaction | [OPEN](https://github.com/sandhruv/hand-gesture-) |
-| LeetCode Solutions | Data structures and algorithms practice | [OPEN](https://github.com/sandhruv/leetcode_solution-summer-pep) |
+Smaller experiments and learning repositories, each exploring a different corner of software engineering.
+
+| Repository | Exploration |
+|---|---|
+| [WhatsApp Automation Suite](https://github.com/sandhruv/WhatsApp-Automation-Suite) | Desktop automation |
+| [Screenshot to Code](https://github.com/sandhruv/screenshot-to-code) | UI reconstruction |
+| [Personal Budget Assistant](https://github.com/sandhruv/-Personal-Budget-Assistant) | Personal finance tooling |
+| [Predictive Analysis](https://github.com/sandhruv/predictive-analysis) | Machine learning |
+| [LPU Portal](https://github.com/sandhruv/lpu-portal) | Portal and document workflows |
+| [Hand Gesture Control](https://github.com/sandhruv/hand-gesture-) | Computer vision |
+| [LeetCode Solutions](https://github.com/sandhruv/leetcode_solution-summer-pep) | DSA practice |
 
 ---
 
-## `05 // DEVELOPER TELEMETRY`
+## `INDEX / 04` — ENGINEERING SIGNAL
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandhruv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhruv&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9" alt="Most-used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sandhruv&show_icons=true&hide_border=true&bg_color=111111&title_color=D7FF64&icon_color=FF795B&text_color=F4F1E8" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhruv&layout=compact&hide_border=true&bg_color=111111&title_color=D7FF64&text_color=F4F1E8" width="49%" alt="Top languages"/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=sandhruv&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandhruv&bg_color=050816&color=C9D1D9&line=00E5FF&point=7C4DFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=sandhruv&hide_border=true&background=111111&ring=D7FF64&fire=FF795B&currStreakLabel=D7FF64&sideLabels=F4F1E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="80%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhruv&bg_color=111111&color=F4F1E8&line=D7FF64&point=FF795B&area=true&hide_border=true" width="98%" alt="Contribution activity"/>
 
 </div>
 
-*Statistics are supplied by third-party services and may be delayed, unavailable, or subject to their own counting rules.*
+<sub>Statistics are generated by third-party services. Availability and calculations may vary.</sub>
 
 ---
 
-## `06 // CERTIFICATION ARCHIVE`
+## `INDEX / 05` — LEARNING LOG
 
-- **NPTEL** — Cloud Computing
-- **Coursera** — Google AI Essentials
-- **McKinsey.org** — Forward Program
-- **Activeloop** — GenAI 360°
-- **Lovely Professional University** — Logic Building and Data Structures
+<details>
+<summary><strong>OPEN CURRENT DEVELOPMENT TRACKS ↗</strong></summary>
+
+<br/>
+
+| Track | Direction |
+|---|---|
+| Java & DSA | Build problem-solving skills and algorithmic foundations |
+| Applied AI | Improve retrieval, evaluation, and LLM application design |
+| Backend engineering | Design maintainable APIs and data workflows |
+| Cloud & reliability | Strengthen deployment, testing, and observability |
+| Agentic systems | Explore tool use and multi-step AI workflows |
+
+</details>
 
 ---
 
-## `07 // NEXT ITERATION`
+## `INDEX / 06` — CERTIFICATION ARCHIVE
 
-```text
-[IN PROGRESS]   Strengthen RAG evaluation and retrieval quality
-[EXPLORING]     LLM orchestration and agentic workflows
-[BUILDING]      Reliable APIs and maintainable backend systems
-[IMPROVING]     Cloud deployment, testing, and observability
-[CONTINUING]    Data structures and algorithm problem solving
-```
+- NPTEL — Cloud Computing
+- Google / Coursera — AI Essentials
+- McKinsey.org — Forward Program
+- Activeloop — GenAI 360°
+- Lovely Professional University — Logic Building and Data Structures
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:4527A0,100:050816&height=120&section=footer" alt="Neon gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=170&section=footer&text=MAKE%20IT%20WORK.%20MAKE%20IT%20USEFUL.&fontSize=23&fontColor=D7FF64&fontAlignY=43&desc=THEN%20MAKE%20IT%20BETTER.&descSize=13&descColor=F4F1E8&descAlignY=65" alt="Make it work, make it useful"/>
 
-### `END OF TRANSMISSION`
+<br/>
 
-**BUILD INTELLIGENTLY. ENGINEER RELIABLY. KEEP SHIPPING.**
+<a href="mailto:sankalpnigamofficial@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-FF795B?style=for-the-badge&labelColor=111111" alt="Start a conversation"/></a>
 
-<a href="mailto:sankalpnigamofficial@gmail.com">EMAIL</a>
-&nbsp; // &nbsp;
-<a href="https://www.linkedin.com/in/sankalpnigam">LINKEDIN</a>
-&nbsp; // &nbsp;
-<a href="https://github.com/sandhruv">GITHUB</a>
+<br/><br/>
 
-<sub>Designed for the intersection of applied AI and software engineering.</sub>
+<sub>DESIGNED WITH INTENT · BUILT THROUGH ITERATION</sub>
 
 </div>
+
+<!-- END README.md -->
